@@ -1,6 +1,3 @@
-#set( $symbol_pound = '#' )
-#set( $symbol_dollar = '$' )
-#set( $symbol_escape = '\' )
 /*
  * Copyright (c) 2010-2011, Dmitry Sidorenko. All Rights Reserved.
  *
@@ -22,9 +19,9 @@ package ${package};
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class ReleasePlanGenerator {
+public class App {
     @SuppressWarnings({"UnusedDeclaration"})
-    private static final Logger LOGGER = LoggerFactory.getLogger(ReleasePlanGenerator.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(App.class);
 
     public static void main(String[] args){
       //TODO: implement

@@ -22,7 +22,7 @@
 
     <name>${name}</name>
 
-    <url>http://ushkinaz.github.com/pivotal-changelog/</url>
+    <url>http://ushkinaz.github.com/${artifactId}/</url>
     <inceptionYear>2011</inceptionYear>
 
     <licenses>
