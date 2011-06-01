@@ -12,13 +12,13 @@
     <fileSet filtered="true" encoding="UTF-8">
       <directory>src/main/resources</directory>
       <includes>
-        <include>**/*.xml</include>
+        <include>log4j.xml</include>
       </includes>
     </fileSet>
     <fileSet encoding="UTF-8" filtered="true">
-      <directory>./</directory>
+      <directory></directory>
       <includes >
-        <include>README.md</include>
+        <include>*.md</include>
       </includes>
     </fileSet>
   </fileSets>
