@@ -15,9 +15,9 @@
         <include>**/*.xml</include>
       </includes>
     </fileSet>
-    <fileSet encoding="UTF-8">
-      <directory></directory>
-      <includes>
+    <fileSet encoding="UTF-8" filtered="true">
+      <directory>./</directory>
+      <includes >
         <include>README.md</include>
       </includes>
     </fileSet>
